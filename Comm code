@@ -1,0 +1,48 @@
+<!-- <section class="about" id="about">
+        <h2 class="hed">About <Span style="color: blueviolet;">Me !</Span></h2>
+        <div><img class="pfp" src="/images/ryan pfp.png" alt=""></div>
+        <div class="abtconlol">
+            <h3>Front - End Developer</h3>
+            <p> Hello, I'm Karan Pustake, a dedicated developer and programmer who enjoys working with code to create
+                practical solutions. I had been on a journey in the world of technology, starting with a genuine
+                interest in programming
+                languages and problem-solving. Over time, I've gained experience and developed my skills in
+                various areas of software development. I'm committed to crafting software that is both functional and
+                user-friendly. Whether it's building applications, improving system efficiency, or tackling coding
+                challenges, they approach each task with a passion for creating reliable digital solutions.</p>
+
+        </div>
+
+    </section>
+
+    <section class="contact" id="contact">
+        <h2>Get in Touch With <span style="color: blueviolet;">Me !</span>
+        </h2>
+        <form action="#">
+            <div class="inputbox">
+                <div class="input-field">
+                    <input type="text" placeholder="Full name" required>
+                    <span class="focus"></span>
+                </div>
+                <div class="input-field">
+                    <input type="text" placeholder="Email address" required>
+                    <span class="focus"></span>
+                </div>
+                <div class="input-field">
+                    <input type="number" placeholder="Phone number" required>
+                    <span class="focus"></span>
+                </div>
+                <div class="input-field">
+                    <input type="text" placeholder="Subject" required>
+                    <span class="focus"></span>
+                </div>
+            </div>
+            <div class="textarea-field">
+                <textarea name="" id="" cols="30" rows="10" placeholder="Your message" required></textarea>
+            </div>
+            <div class="btn-box">
+                <button type="submit" class="btn">Submit</button>
+            </div>
+        </form>
+
+    </section> -->
